@@ -2,6 +2,8 @@
 
 **pixel-search** is a Node.js tool for finding an image inside another image and taking screenshots. You can use it as a CLI or as a module in your own projects. Super fast, super simple!
 
+![]()
+
 ### Features
 - Find the position of a small image inside a big image
 - Take screenshots (Windows only)
