@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const { findImageInImage, takescreenshot } = require('./module');
+const { findImageInImage, takescreenshot } = require('./util');
 const path = require('path');
 
 const args = process.argv.slice(2);

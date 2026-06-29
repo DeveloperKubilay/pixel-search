@@ -18,7 +18,7 @@ jobs:
 
                                     
             - name: 📦 Package setup
-              run: cp package.json module/package.json && cp index.js module/cli.js && cp README.md module/README.md && cp LICENSE module/LICENSE
+              run: cp package.json module/package.json && cp index.js module/index.js && cp README.md module/README.md && cp LICENSE module/LICENSE
               working-directory: .
 
             - name: 🚀 publish
