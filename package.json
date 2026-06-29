@@ -1,6 +1,6 @@
 {
   "name": "pixel-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search for an image inside another image and take screenshots. Usable as CLI and module.",
   "main": "index.js",
   "bin": {
